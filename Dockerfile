@@ -1,4 +1,4 @@
-FROM fabioluciano/docker-ubuntu-php
+FROM fabioluciano/ubuntu-nginx-php
 
 MAINTAINER Fábio Luciano <fabioluciano@php.net>
 
